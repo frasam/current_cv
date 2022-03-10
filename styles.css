@@ -1,0 +1,28 @@
+body{
+    box-sizing: border-box;
+}
+header{
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
+.image{
+    border-radius: 25px;
+    background: url(/image/image1.png);
+    background-position: left top;
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 374px;
+
+  }
+.theheader{
+    text-align: center;
+    justify-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.theheader h1{
+    color: blue;
+    font-weight: 600;
+}
