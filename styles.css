@@ -60,3 +60,17 @@ table td{
     text-align: center;
     padding: auto; 
 }
+.summary{
+    font-size: 1.5rem;
+    color: royalblue;
+    text-align: center;
+}
+.experience{
+    font-size: 1.2rem;
+    padding: 10px auto;
+    margin: 10px auto;
+}
+.experience .date{
+    float: right;
+       
+}
