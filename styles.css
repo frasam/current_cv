@@ -83,3 +83,15 @@ table td{
 .descriptions .school_hnd{
     margin-bottom: 20px;
 }
+.train{
+    font-size: 1.2rem;
+}
+.train .date{
+    float: right;
+}
+.proTrain{
+    font-size: 1.2rem;
+}
+.proTrain .date{
+    float: right;
+}
