@@ -74,3 +74,12 @@ table td{
     float: right;
        
 }
+.descriptions ul{
+    font-size: 1.2rem;
+}
+.descriptions .date{
+    float: right;
+}
+.descriptions .school_hnd{
+    margin-bottom: 20px;
+}
