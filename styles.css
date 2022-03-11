@@ -35,3 +35,28 @@ align-items: center;
     font-size: 1.5rem;
     color: royalblue;
 }
+.profile p{
+    font-size: 1.2rem;
+    padding: 5px auto;
+    
+}
+.areaOfStrength{
+    margin: 20px auto;
+}
+.areaOfStrength .areaofstrength{
+    font-size: 1.5rem;
+    color: royalblue;
+    text-align: center;
+}
+.TheTable{
+    padding: 10px 20px;  
+}
+table{
+    width: 100%;
+}
+table td{
+    height: 1.2rem;
+    font-size: 1.2rem;
+    text-align: center;
+    padding: auto; 
+}
