@@ -26,3 +26,12 @@ align-items: center;
     color: blue;
     font-weight: 600;
 }
+.profile{
+    padding: 20px auto;
+    margin: 20px auto;
+}
+.subTitle{
+    text-align: center;
+    font-size: 1.5rem;
+    color: royalblue;
+}
